@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="map_key_debug">0UUnupTxbpdHBqSgZFLLqTmFGezrtAJBEUCUWgw</string>
+    <string name="map_key">@string/map_key_debug</string>
+
+</resources>
